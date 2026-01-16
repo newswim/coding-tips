@@ -1,6 +1,6 @@
 # Coding tips
 
-## Visual Studio Code
+## Visual Studio Code / Cursor
 
 ### Multi-cursor
 
